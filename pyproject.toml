@@ -2,5 +2,9 @@
 name = "cz_conventional_commits"
 tag_format = "$version"
 version_scheme = "semver"
+<<<<<<< HEAD
 version = "0.6.0"
+=======
+version = "0.7.0"
+>>>>>>> 9ddd778 (feat(polls): add polls add views)
 update_changelog_on_bump = true

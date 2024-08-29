@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+## 0.7.0 (2024-08-29)
+
+### Feat
+
+- test
+
+>>>>>>> 9ddd778 (feat(polls): add polls add views)
 ## 0.6.0 (2024-08-29)
 
 ### Feat
