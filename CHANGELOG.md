@@ -1,3 +1,9 @@
+## 0.4.1 (2024-08-29)
+
+### Refactor
+
+- **polls/views**: refractor detail in views
+
 ## 0.4.0 (2024-08-29)
 
 ### Feat
