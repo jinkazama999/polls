@@ -1,3 +1,9 @@
+## 0.4.0 (2024-08-30)
+
+### Feat
+
+- **polls/template/polls**: add detail template
+
 ## 0.3.2 (2024-08-30)
 
 ### Refactor
