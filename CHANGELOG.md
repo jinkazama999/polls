@@ -1,3 +1,9 @@
+## 0.5.0 (2024-08-30)
+
+### Feat
+
+- **polls**: add results template add class views
+
 ## 0.4.0 (2024-08-30)
 
 ### Feat
