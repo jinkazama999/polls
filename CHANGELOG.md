@@ -1,3 +1,9 @@
+## 0.3.1 (2024-08-30)
+
+### Refactor
+
+- **polls/views**: refractor index in polls/views
+
 ## 0.3.0 (2024-08-30)
 
 ### Feat
