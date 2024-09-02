@@ -1,3 +1,9 @@
+## 0.7.0 (2024-09-02)
+
+### Feat
+
+- **mysite/settings**: add s to productions
+
 ## 0.6.0 (2024-09-02)
 
 ### Feat
