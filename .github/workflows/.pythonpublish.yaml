@@ -29,6 +29,6 @@ jobs:
       - name: Build and publish
         env:
           PYPI_USERNAME: __token__
-          PYPI_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
+          PYPI_PASSWORD: ${{ secrets.PYPI_PASSWORDs }}
         run: |
           ./scripts/publish
