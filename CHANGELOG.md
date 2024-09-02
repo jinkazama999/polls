@@ -1,3 +1,9 @@
+## 0.6.0 (2024-09-02)
+
+### Feat
+
+- **.github**: change password secret
+
 ## 0.5.0 (2024-08-30)
 
 ### Feat
